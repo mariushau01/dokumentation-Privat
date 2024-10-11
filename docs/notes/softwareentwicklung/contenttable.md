@@ -1,13 +1,13 @@
 ---
 icon: book
-order: 1000
+date: 2024-09-27
 author: Marius Hau
 ---
-
+ 
 # Inhaltsverzeichnis
-
+ 
 ## Softwareentwicklung und Projektmanagement
-
+ 
 | Datum | Stunden | Inhalt |
 | ------------ | ----- | ------------------------------------------------------------------------------------------------------------------- |
 | 27. Sep. 2024 | 2 | Softwaretest besprechen, Paket Moq engesetzt - Interface "Fake", GitHub Issue erstell und automatisch geschlossen |

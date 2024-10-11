@@ -39,7 +39,7 @@ export default withMermaid({
 
     footer: {
       message: 'Digitale Mappe - Mitschrift im Unterricht',
-      copyright: 'Copyright &copy; 2024-jetzt Max Muster'
+      copyright: 'Copyright &copy; 2024-jetzt Marius Hau'
     },
 
     externalLinkIcon: true,
@@ -54,7 +54,7 @@ export default withMermaid({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/mariushau01' }
     ]
   },
 

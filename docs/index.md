@@ -7,7 +7,7 @@ sidebar: false
 hero:
   name: "Digitale Mappe"
   text: "Mitschrift im Unterricht"
-  tagline: Max Muster
+  tagline: Marius Hau
   actions:
     - theme: brand
       text: Mitschrift

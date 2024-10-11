@@ -7,11 +7,11 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://github.com/vuejs.png',
-    name: 'Max Muster',
-    title: 'Lorem ipsum dolor sit amet',
+    avatar: 'https://github.com/mariushau01.png',
+    name: 'Marius Hau',
+    title: 'Schüler an der BHAK Zell am See',
     links: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'github', link: 'https://github.com/mariushau01' },
     ]
   }
 ]
