@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "watch": "concurrently \"vitepress serve\" \"chokidar 'docs/**/*' -c 'vitepress build'\""
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^9.0.1",
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^11.3.0",
+    "vitepress": "^1.4.0",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it-deflist": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0"
+  }
+}
