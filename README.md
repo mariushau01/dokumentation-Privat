@@ -1,1 +1,1 @@
-# Doku-Template
+# Digitale Mappe
