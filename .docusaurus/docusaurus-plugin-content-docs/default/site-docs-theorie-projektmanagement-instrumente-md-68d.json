@@ -1,0 +1,27 @@
+{
+  "id": "theorie/projektmanagement-instrumente",
+  "title": "Projektmanagementinstrumente",
+  "description": "Allgemeiness",
+  "source": "@site/docs/theorie/projektmanagement-instrumente.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projektmanagement-instrumente",
+  "permalink": "/docs/theorie/projektmanagement-instrumente",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projektmanagement-instrumente.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-05-14T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projekt",
+    "permalink": "/docs/theorie/projekt"
+  },
+  "next": {
+    "title": "Projektmanagement",
+    "permalink": "/docs/theorie/projektmanagement"
+  }
+}

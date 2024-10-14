@@ -1,0 +1,27 @@
+{
+  "id": "projects/xml-book",
+  "title": "XML: Fahrtenbuch",
+  "description": "Im Fahrtebuch werden Autofahrten eingetragen. Folgende Daten werden gespeichert:",
+  "source": "@site/docs/projects/xml-book.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/xml-book",
+  "permalink": "/docs/projects/xml-book",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/xml-book.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-01-08T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dummy",
+    "permalink": "/docs/projects/dummy"
+  },
+  "next": {
+    "title": "Projekt mit XML und C",
+    "permalink": "/docs/projects/xmlproject"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2023/09/15/apr-swpp",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-09-15-apr-swpp.md",
+  "source": "@site/blog/2023-09-15-apr-swpp.md",
+  "title": "doku",
+  "description": "",
+  "date": "2023-09-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.005,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "title": "Schüler der HAK Zell am See",
+      "url": "https://github.com/mariushau01",
+      "page": {
+        "permalink": "/blog/authors/mariushau-01"
+      },
+      "socials": {
+        "github": "https://github.com/mariushau01"
+      },
+      "imageURL": "https://github.com/mariushau01.png",
+      "key": "mariushau01"
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-09-15T00:00:00.000Z",
+    "authors": "mariushau01",
+    "title": "doku"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "exceptions",
+    "permalink": "/blog/2023/09/19/exceptions"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/09/19/exceptions",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-09-19-exceptions.md",
+  "source": "@site/blog/2023-09-19-exceptions.md",
+  "title": "exceptions",
+  "description": "Allgemeines",
+  "date": "2023-09-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.08,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-09-19T00:00:00.000Z",
+    "author": "Marius Hau",
+    "title": "exceptions"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "arbeitsauftrag",
+    "permalink": "/blog/2023/10/17/arbeitsauftrag"
+  },
+  "nextItem": {
+    "title": "doku",
+    "permalink": "/blog/2023/09/15/apr-swpp"
+  }
+}

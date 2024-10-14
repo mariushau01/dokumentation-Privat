@@ -1,0 +1,27 @@
+{
+  "id": "theorie/Projektumweltanalyse",
+  "title": "Projektumweltanalyse",
+  "description": "Durch eine Produktumweltanalyse soll ein soziales System dargestellt werden. Die Gestaltung der Projektumweltbeziehungen ist eine Projektmanagementaufgabe.",
+  "source": "@site/docs/theorie/Projektumweltanalyse.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/Projektumweltanalyse",
+  "permalink": "/docs/theorie/Projektumweltanalyse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/Projektumweltanalyse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-02-27T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wasserfall-Modell",
+    "permalink": "/docs/softwareentwicklung/wasserfallmodell"
+  },
+  "next": {
+    "title": "Alternativen bewerten",
+    "permalink": "/docs/theorie/alternatives"
+  }
+}

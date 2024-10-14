@@ -1,0 +1,27 @@
+{
+  "id": "projects/ElfmeterProjekt",
+  "title": "Elfmeter Projekt",
+  "description": "Dieses Projekt ermöglicht es dir 2 verschiedene Teams gegeneinander spielen zu lassen.",
+  "source": "@site/docs/projects/ElfmeterProjekt.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/ElfmeterProjekt",
+  "permalink": "/docs/projects/ElfmeterProjekt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/ElfmeterProjekt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-05-12T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mitschrift",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "dummy",
+    "permalink": "/docs/projects/dummy"
+  }
+}

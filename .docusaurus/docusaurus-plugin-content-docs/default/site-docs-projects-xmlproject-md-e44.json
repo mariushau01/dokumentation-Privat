@@ -1,0 +1,27 @@
+{
+  "id": "projects/xmlproject",
+  "title": "Projekt mit XML und C",
+  "description": "Elfmeterschiessen zweier Mannschaften",
+  "source": "@site/docs/projects/xmlproject.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/xmlproject",
+  "permalink": "/docs/projects/xmlproject",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/xmlproject.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-11T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "XML: Fahrtenbuch",
+    "permalink": "/docs/projects/xml-book"
+  },
+  "next": {
+    "title": "Design Patterns",
+    "permalink": "/docs/se/design-patterns"
+  }
+}

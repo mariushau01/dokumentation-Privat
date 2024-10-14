@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/10/17/arbeitsauftrag",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-10-17-arbeitsauftrag.md",
+  "source": "@site/blog/2023-10-17-arbeitsauftrag.md",
+  "title": "arbeitsauftrag",
+  "description": "Was versteht man unter einem Projekt?",
+  "date": "2023-10-17T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.36,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-10-17T00:00:00.000Z",
+    "author": "Marius Hau",
+    "title": "arbeitsauftrag"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Schnittstellen",
+    "permalink": "/blog/2023/10/26/schnittstellen"
+  },
+  "nextItem": {
+    "title": "exceptions",
+    "permalink": "/blog/2023/09/19/exceptions"
+  }
+}

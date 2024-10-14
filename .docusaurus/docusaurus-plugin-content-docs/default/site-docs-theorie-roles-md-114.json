@@ -1,0 +1,27 @@
+{
+  "id": "theorie/roles",
+  "title": "Rollen und Funktionen",
+  "description": "In einem Projekt sind folgende Rollen notwendig um eine erfolgreiche Abwicklung des Projektes zu ermöglichen:",
+  "source": "@site/docs/theorie/roles.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/roles",
+  "permalink": "/docs/theorie/roles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/roles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-03-05T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qualitätsmanagement",
+    "permalink": "/docs/theorie/qualitätsmanagement"
+  },
+  "next": {
+    "title": "Allgemeines",
+    "permalink": "/docs/tools/Allgemeines"
+  }
+}

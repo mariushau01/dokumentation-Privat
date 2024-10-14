@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/2023/11/04/skript",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-11-04-skript.md",
+  "source": "@site/blog/2023-11-04-skript.md",
+  "title": "skript",
+  "description": "Einrichtung .NET Maui",
+  "date": "2023-11-04T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.075,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-11-04T00:00:00.000Z",
+    "author": "Marius Hau",
+    "title": "skript"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "null-werte",
+    "permalink": "/blog/2023/10/24/null-werte"
+  }
+}

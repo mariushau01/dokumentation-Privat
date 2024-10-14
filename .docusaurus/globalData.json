@@ -1,0 +1,168 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "allgemeines/contenttable",
+              "path": "/docs/allgemeines/contenttable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/dummy",
+              "path": "/docs/projects/dummy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/ElfmeterProjekt",
+              "path": "/docs/projects/ElfmeterProjekt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/xml-book",
+              "path": "/docs/projects/xml-book",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/xmlproject",
+              "path": "/docs/projects/xmlproject",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "se/design-patterns",
+              "path": "/docs/se/design-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "se/documents",
+              "path": "/docs/se/documents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "se/dummy",
+              "path": "/docs/se/dummy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "se/wasserfall-modell",
+              "path": "/docs/se/wasserfall-modell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "softwareentwicklung/Anforderungsanalyse",
+              "path": "/docs/softwareentwicklung/Anforderungsanalyse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "softwareentwicklung/contenttable",
+              "path": "/docs/softwareentwicklung/contenttable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "softwareentwicklung/wasserfallmodell",
+              "path": "/docs/softwareentwicklung/wasserfallmodell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/alternatives",
+              "path": "/docs/theorie/alternatives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/practicalibility",
+              "path": "/docs/theorie/practicalibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/project-init",
+              "path": "/docs/theorie/project-init",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projecttypes",
+              "path": "/docs/theorie/projecttypes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projekt",
+              "path": "/docs/theorie/projekt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projekt-worthiness",
+              "path": "/docs/theorie/projekt-worthiness",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektmanagement",
+              "path": "/docs/theorie/projektmanagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektmanagement-instrumente",
+              "path": "/docs/theorie/projektmanagement-instrumente",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/Projektumweltanalyse",
+              "path": "/docs/theorie/Projektumweltanalyse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektziele",
+              "path": "/docs/theorie/projektziele",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/qualitätsmanagement",
+              "path": "/docs/theorie/qualitätsmanagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/roles",
+              "path": "/docs/theorie/roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tipps-und-Tricks/GUID",
+              "path": "/docs/Tipps-und-Tricks/GUID",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/Allgemeines",
+              "path": "/docs/tools/Allgemeines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/diagramme",
+              "path": "/docs/tools/diagramme",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Tipps-und-Tricks/GUID",
+                "label": "Tipps-und-Tricks/GUID"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

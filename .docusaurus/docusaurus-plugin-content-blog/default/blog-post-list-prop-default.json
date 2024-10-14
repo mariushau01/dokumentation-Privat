@@ -1,0 +1,35 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "skript",
+      "permalink": "/blog/2023/11/04/skript",
+      "unlisted": false,
+      "date": "2023-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "null-werte",
+      "permalink": "/blog/2023/10/24/null-werte",
+      "unlisted": false,
+      "date": "2023-11-03T00:00:00.000Z"
+    },
+    {
+      "title": "Schnittstellen",
+      "permalink": "/blog/2023/10/26/schnittstellen",
+      "unlisted": false,
+      "date": "2023-10-24T00:00:00.000Z"
+    },
+    {
+      "title": "arbeitsauftrag",
+      "permalink": "/blog/2023/10/17/arbeitsauftrag",
+      "unlisted": false,
+      "date": "2023-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "exceptions",
+      "permalink": "/blog/2023/09/19/exceptions",
+      "unlisted": false,
+      "date": "2023-09-19T00:00:00.000Z"
+    }
+  ]
+}

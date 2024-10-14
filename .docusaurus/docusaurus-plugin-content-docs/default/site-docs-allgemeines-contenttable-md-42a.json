@@ -1,0 +1,28 @@
+{
+  "id": "allgemeines/contenttable",
+  "title": "Inhaltsverzeichnis",
+  "description": "Softwareentwicklung und Projektmanagement",
+  "source": "@site/docs/allgemeines/contenttable.md",
+  "sourceDirName": "allgemeines",
+  "slug": "/allgemeines/contenttable",
+  "permalink": "/docs/allgemeines/contenttable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/allgemeines/contenttable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "icon": "book",
+    "order": 1000,
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GUID - Global Unique Identifier",
+    "permalink": "/docs/Tipps-und-Tricks/GUID"
+  },
+  "next": {
+    "title": "Mitschrift",
+    "permalink": "/docs/"
+  }
+}

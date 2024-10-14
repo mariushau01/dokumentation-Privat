@@ -1,0 +1,27 @@
+{
+  "id": "theorie/projekt-worthiness",
+  "title": "Projektwürdigkeit analysieren",
+  "description": "Anhand bestimmter Kriterien wird die Projektwürdigkeit analysiert. Die Kriterien muss für das Unternhemen wensetlich sein.",
+  "source": "@site/docs/theorie/projekt-worthiness.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projekt-worthiness",
+  "permalink": "/docs/theorie/projekt-worthiness",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projekt-worthiness.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-05-14T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektarten",
+    "permalink": "/docs/theorie/projecttypes"
+  },
+  "next": {
+    "title": "Projekt",
+    "permalink": "/docs/theorie/projekt"
+  }
+}

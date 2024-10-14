@@ -1,0 +1,27 @@
+{
+  "id": "se/wasserfall-modell",
+  "title": "Wasserfall-Modell",
+  "description": "Allgemeines",
+  "source": "@site/docs/se/wasserfall-modell.md",
+  "sourceDirName": "se",
+  "slug": "/se/wasserfall-modell",
+  "permalink": "/docs/se/wasserfall-modell",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/se/wasserfall-modell.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-09-113",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dummy",
+    "permalink": "/docs/se/dummy"
+  },
+  "next": {
+    "title": "Dokumente",
+    "permalink": "/docs/softwareentwicklung/Anforderungsanalyse"
+  }
+}

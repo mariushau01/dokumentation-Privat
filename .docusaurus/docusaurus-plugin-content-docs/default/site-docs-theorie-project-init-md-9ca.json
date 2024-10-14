@@ -1,0 +1,27 @@
+{
+  "id": "theorie/project-init",
+  "title": "Projekt initiieren",
+  "description": "Um möglichst eine gute Idee für ein Projekt zu finden, können folgende Hilfsmittel verwendet werden:",
+  "source": "@site/docs/theorie/project-init.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/project-init",
+  "permalink": "/docs/theorie/project-init",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/project-init.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-03-12T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Durchführbarkeit analysieren",
+    "permalink": "/docs/theorie/practicalibility"
+  },
+  "next": {
+    "title": "Projektarten",
+    "permalink": "/docs/theorie/projecttypes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Tipps-und-Tricks/GUID",
+  "title": "GUID - Global Unique Identifier",
+  "description": "Eine GUID ist eine einzigartige Zeichenkette, welche zum Beispiel als Primärschlüssel verwendet werden kann.",
+  "source": "@site/docs/Tipps-und-Tricks/GUID.md",
+  "sourceDirName": "Tipps-und-Tricks",
+  "slug": "/Tipps-und-Tricks/GUID",
+  "permalink": "/docs/Tipps-und-Tricks/GUID",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tipps-und-Tricks/GUID.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-10-17T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Inhaltsverzeichnis",
+    "permalink": "/docs/allgemeines/contenttable"
+  }
+}

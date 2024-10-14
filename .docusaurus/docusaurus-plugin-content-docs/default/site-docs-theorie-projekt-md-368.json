@@ -1,0 +1,27 @@
+{
+  "id": "theorie/projekt",
+  "title": "Projekt",
+  "description": "Was ist ein Projekt",
+  "source": "@site/docs/theorie/projekt.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projekt",
+  "permalink": "/docs/theorie/projekt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projekt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-10-24T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektwürdigkeit analysieren",
+    "permalink": "/docs/theorie/projekt-worthiness"
+  },
+  "next": {
+    "title": "Projektmanagementinstrumente",
+    "permalink": "/docs/theorie/projektmanagement-instrumente"
+  }
+}

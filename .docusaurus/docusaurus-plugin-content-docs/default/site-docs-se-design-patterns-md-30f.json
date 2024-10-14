@@ -1,0 +1,27 @@
+{
+  "id": "se/design-patterns",
+  "title": "Design Patterns",
+  "description": "Solid",
+  "source": "@site/docs/se/design-patterns.md",
+  "sourceDirName": "se",
+  "slug": "/se/design-patterns",
+  "permalink": "/docs/se/design-patterns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/se/design-patterns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-03-19T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projekt mit XML und C",
+    "permalink": "/docs/projects/xmlproject"
+  },
+  "next": {
+    "title": "Dokumente",
+    "permalink": "/docs/se/documents"
+  }
+}

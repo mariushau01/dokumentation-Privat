@@ -1,0 +1,27 @@
+{
+  "id": "theorie/projecttypes",
+  "title": "Projektarten",
+  "description": "Projekte können anhand der folgenden Merkmale unterschieden werden können:",
+  "source": "@site/docs/theorie/projecttypes.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projecttypes",
+  "permalink": "/docs/theorie/projecttypes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projecttypes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-11-21T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projekt initiieren",
+    "permalink": "/docs/theorie/project-init"
+  },
+  "next": {
+    "title": "Projektwürdigkeit analysieren",
+    "permalink": "/docs/theorie/projekt-worthiness"
+  }
+}

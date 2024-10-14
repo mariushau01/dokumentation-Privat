@@ -1,0 +1,27 @@
+{
+  "id": "theorie/practicalibility",
+  "title": "Durchführbarkeit analysieren",
+  "description": "Die Durchführbarkeit eines Projektes wird anhand verschiedener Bereiche",
+  "source": "@site/docs/theorie/practicalibility.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/practicalibility",
+  "permalink": "/docs/theorie/practicalibility",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/practicalibility.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-04-30T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alternativen bewerten",
+    "permalink": "/docs/theorie/alternatives"
+  },
+  "next": {
+    "title": "Projekt initiieren",
+    "permalink": "/docs/theorie/project-init"
+  }
+}

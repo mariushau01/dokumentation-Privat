@@ -1,0 +1,23 @@
+{
+  "id": "tools/diagramme",
+  "title": "Diagramme",
+  "description": "Organigramm",
+  "source": "@site/docs/tools/diagramme.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/diagramme",
+  "permalink": "/docs/tools/diagramme",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tools/diagramme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-05T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Allgemeines",
+    "permalink": "/docs/tools/Allgemeines"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "softwareentwicklung/Anforderungsanalyse",
+  "title": "Dokumente",
+  "description": "In einem Lastenheft formuliert der Kunde seine Probleme und Sichtweisen inklusiv Anforderungen an die Software. Weiters besteht die Möglichkeit, dass der Kunde bestehende Formulare, Berichte, Fehlerprotokolle an die Entwickler weiter reicht. Für einen guten Überblick sorgen die Kenntnisse von Schwachstellen und optimalfunktionierenden Bereichen von bestehenden Systemen.",
+  "source": "@site/docs/softwareentwicklung/Anforderungsanalyse.md",
+  "sourceDirName": "softwareentwicklung",
+  "slug": "/softwareentwicklung/Anforderungsanalyse",
+  "permalink": "/docs/softwareentwicklung/Anforderungsanalyse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/softwareentwicklung/Anforderungsanalyse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-09-13T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wasserfall-Modell",
+    "permalink": "/docs/se/wasserfall-modell"
+  },
+  "next": {
+    "title": "Inhaltsverzeichnis",
+    "permalink": "/docs/softwareentwicklung/contenttable"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/10/26/schnittstellen",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-10-26-schnittstellen.md",
+  "source": "@site/blog/2023-10-26-schnittstellen.md",
+  "title": "Schnittstellen",
+  "description": "Eine Schnittstelle ist eine abstrakte Struktur, die definiert, welche Methoden und Eigenschaften eine Klasse implementieren muss, um bestimmte Funktionalitäten bereitzustellen.",
+  "date": "2023-10-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.56,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-10-24T00:00:00.000Z",
+    "author": "Marius Hau",
+    "title": "Schnittstellen"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "null-werte",
+    "permalink": "/blog/2023/10/24/null-werte"
+  },
+  "nextItem": {
+    "title": "arbeitsauftrag",
+    "permalink": "/blog/2023/10/17/arbeitsauftrag"
+  }
+}

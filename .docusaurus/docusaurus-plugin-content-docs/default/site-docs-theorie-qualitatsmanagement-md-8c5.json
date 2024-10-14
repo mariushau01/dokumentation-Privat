@@ -1,0 +1,27 @@
+{
+  "id": "theorie/qualitätsmanagement",
+  "title": "Qualitätsmanagement",
+  "description": "Deming-Kreis",
+  "source": "@site/docs/theorie/qualitätsmanagement.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/qualitätsmanagement",
+  "permalink": "/docs/theorie/qualitätsmanagement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/qualitätsmanagement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-02-20T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektziele",
+    "permalink": "/docs/theorie/projektziele"
+  },
+  "next": {
+    "title": "Rollen und Funktionen",
+    "permalink": "/docs/theorie/roles"
+  }
+}

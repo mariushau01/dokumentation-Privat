@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/10/24/null-werte",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-10-24-null-werte.md",
+  "source": "@site/blog/2023-10-24-null-werte.md",
+  "title": "null-werte",
+  "description": "Ein Null-Wert in C# ist ein spezieller Wert, der anzeigt, dass eine Variable oder ein Objekt keinen gültigen Wert oder",
+  "date": "2023-11-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.635,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marius Hau",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "date": "2023-11-03T00:00:00.000Z",
+    "author": "Marius Hau",
+    "title": "null-werte"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "skript",
+    "permalink": "/blog/2023/11/04/skript"
+  },
+  "nextItem": {
+    "title": "Schnittstellen",
+    "permalink": "/blog/2023/10/26/schnittstellen"
+  }
+}

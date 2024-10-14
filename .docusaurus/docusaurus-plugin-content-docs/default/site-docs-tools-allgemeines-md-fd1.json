@@ -1,0 +1,27 @@
+{
+  "id": "tools/Allgemeines",
+  "title": "Allgemeines",
+  "description": "Wortwolken",
+  "source": "@site/docs/tools/Allgemeines.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/Allgemeines",
+  "permalink": "/docs/tools/Allgemeines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tools/Allgemeines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-11-14T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rollen und Funktionen",
+    "permalink": "/docs/theorie/roles"
+  },
+  "next": {
+    "title": "Diagramme",
+    "permalink": "/docs/tools/diagramme"
+  }
+}

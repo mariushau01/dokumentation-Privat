@@ -1,0 +1,27 @@
+{
+  "id": "theorie/alternatives",
+  "title": "Alternativen bewerten",
+  "description": "Wenn bei einem Projekt mehrere Alternativen zur Auswahl stehen, müssen die Alternativen mit bestimmten Kriterien bewertet werden.",
+  "source": "@site/docs/theorie/alternatives.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/alternatives",
+  "permalink": "/docs/theorie/alternatives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/alternatives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-03-19T00:00:00.000Z",
+    "author": "Marius Hau"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektumweltanalyse",
+    "permalink": "/docs/theorie/Projektumweltanalyse"
+  },
+  "next": {
+    "title": "Durchführbarkeit analysieren",
+    "permalink": "/docs/theorie/practicalibility"
+  }
+}
